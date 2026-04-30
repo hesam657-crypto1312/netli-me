@@ -3,5 +3,5 @@
   publish = "public"
 
 [[netli]]
-  function = "my"
+  function = "relay"
   path = "/*"
