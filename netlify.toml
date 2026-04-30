@@ -2,6 +2,6 @@
   command = "npm run build"
   publish = "public"
 
-[[netli]]
+[[edge_functions]]
   function = "my"
   path = "/*"
